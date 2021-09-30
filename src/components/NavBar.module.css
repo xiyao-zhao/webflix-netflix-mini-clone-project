@@ -1,0 +1,16 @@
+.navbar {
+    position: relative;
+} 
+
+h1 {
+    margin-top: 0;
+    padding-top: 60px;
+    font-size: 70px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.5;
+} 
+
+span {
+    color: #e50914;
+    text-shadow: 4px 4px black;
+}
