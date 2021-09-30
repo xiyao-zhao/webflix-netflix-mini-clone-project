@@ -1,6 +1,50 @@
 # Webflix-netflix-mini-clone-project
 
-This project is a mini clone project of Netflix website. 
+This project is a mini clone of Netflix website. It is build with React functions and hooks.
+
+### Main functions highlight:
+
+- A search box allows users to type in the movie or series title and search, and input is displayed.
+- Fetch API from http://www.omdbapi.com/ based on the user input, and display the results. 
+
+### Webflix structure
+>#### public
+>> index.html
+>#### src
+>> components
+>> 
+>> > ItemList.js
+>> > 
+>> > ItemList.module.css
+>> > 
+>> > NavBar.js
+>> >
+>> > NavBar.module.css
+>> > 
+>> > SearchBar.js
+>> > 
+>> > SearchBar.module.css
+>> > 
+>> > Sort.js
+>> > 
+>> > Sort.module.css
+>> > 
+>> image
+>> 
+>> > background.png
+>> > 
+>> App.css
+>> 
+>> App.js
+>> 
+>> index.js
+ 
+### Future add-on function ideas:
+- A drop down menu allows users to sort results by year, by title alphabetically.
+- Filter the results by genre, rating, language, country.
+- Hover over the poster, displays more details about the movie or series. 
+- Routes on navbar allow users to see either "movies" or "tv series".
+- A signup/login function allows users to have personalized experience, such as add as favorites, add to watch later lists.
 
 ## Available Scripts
 
@@ -11,13 +55,9 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
@@ -26,15 +66,3 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
