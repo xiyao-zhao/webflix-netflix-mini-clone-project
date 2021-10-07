@@ -10,7 +10,7 @@ function App() {
     const [isLoading, setIsLoading] = useState(true);
     const [items, setData] = useState([]);
     const input = keyword.replace(' ', '+');
-    const url = `http://www.omdbapi.com/?apikey=f0e4ff4&s=${input}`;
+    const url = `//www.omdbapi.com/?apikey=f0e4ff4&s=${input}`;
 
     // Handle event when user clicks the search bar submit button
     const submitHandler = (event) => {
