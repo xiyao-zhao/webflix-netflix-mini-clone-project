@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/webflix-netflix-mini-clone-project/static/css/main.f7435cb7.chunk.css",
-    "main.js": "/webflix-netflix-mini-clone-project/static/js/main.b939d34c.chunk.js",
-    "main.js.map": "/webflix-netflix-mini-clone-project/static/js/main.b939d34c.chunk.js.map",
+    "main.js": "/webflix-netflix-mini-clone-project/static/js/main.c528cfa2.chunk.js",
+    "main.js.map": "/webflix-netflix-mini-clone-project/static/js/main.c528cfa2.chunk.js.map",
     "runtime-main.js": "/webflix-netflix-mini-clone-project/static/js/runtime-main.3dc25878.js",
     "runtime-main.js.map": "/webflix-netflix-mini-clone-project/static/js/runtime-main.3dc25878.js.map",
     "static/js/2.3202e68a.chunk.js": "/webflix-netflix-mini-clone-project/static/js/2.3202e68a.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.3dc25878.js",
     "static/js/2.3202e68a.chunk.js",
     "static/css/main.f7435cb7.chunk.css",
-    "static/js/main.b939d34c.chunk.js"
+    "static/js/main.c528cfa2.chunk.js"
   ]
 }
