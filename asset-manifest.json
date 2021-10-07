@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-webflix/static/css/main.c2d95d84.chunk.css",
+    "main.js": "/react-webflix/static/js/main.b939d34c.chunk.js",
+    "main.js.map": "/react-webflix/static/js/main.b939d34c.chunk.js.map",
+    "runtime-main.js": "/react-webflix/static/js/runtime-main.4d4dec72.js",
+    "runtime-main.js.map": "/react-webflix/static/js/runtime-main.4d4dec72.js.map",
+    "static/js/2.3202e68a.chunk.js": "/react-webflix/static/js/2.3202e68a.chunk.js",
+    "static/js/2.3202e68a.chunk.js.map": "/react-webflix/static/js/2.3202e68a.chunk.js.map",
+    "index.html": "/react-webflix/index.html",
+    "static/css/main.c2d95d84.chunk.css.map": "/react-webflix/static/css/main.c2d95d84.chunk.css.map",
+    "static/js/2.3202e68a.chunk.js.LICENSE.txt": "/react-webflix/static/js/2.3202e68a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-webflix/static/media/background.644de1c1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d4dec72.js",
+    "static/js/2.3202e68a.chunk.js",
+    "static/css/main.c2d95d84.chunk.css",
+    "static/js/main.b939d34c.chunk.js"
+  ]
+}
